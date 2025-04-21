@@ -1,0 +1,13 @@
+.env
+*.csv
+*.md
+*.txt
+*.json
+*.yaml
+*.yml
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
